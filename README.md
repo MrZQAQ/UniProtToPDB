@@ -90,11 +90,14 @@ Note: No limit to large query, **use carefully**.
 
 ## Thanks
 
-Thanks to UniProt. ![UniProt logo](https://raw.githubusercontent.com/ebi-uniprot/uniprot-website/main/src/images/uniprot-logo.img.svg)
+Thanks to [UniProt](https://www.uniprot.org/). 
+
+<img src="https://raw.githubusercontent.com/ebi-uniprot/uniprot-website/main/src/images/uniprot-logo.img.svg" width="200px">
 
 The data from UniProt is shared under the Creative Commons Attribution 4.0 International (CC BY 4.0) License (https://creativecommons.org/licenses/by/4.0/).
 
 ## License
 
 Code is shared under GNU General Public License v3.0
+
 Data is shared under the Creative Commons Attribution 4.0 International (CC BY 4.0) License
